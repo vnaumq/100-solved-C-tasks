@@ -1,0 +1,23 @@
+﻿  main.cpp
+  set.cpp
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(33,10): error C2039: "set_intersection": не является членом "std".
+D:\programm\0222\VC\Tools\MSVC\14.34.31933\include\set(23,1): message : см. объявление "std"
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(33,26): error C3861: set_intersection: идентификатор не найден
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(41,10): error C2039: "set_difference": не является членом "std".
+D:\programm\0222\VC\Tools\MSVC\14.34.31933\include\set(23,1): message : см. объявление "std"
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(41,24): error C3861: set_difference: идентификатор не найден
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(47,26): error C2039: "unite": не является членом "CyrillicSet".
+D:\First Course\Programming\First Semester\OOP\main\main\set.h(7,7): message : см. объявление "CyrillicSet"
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(47,64): error C2270: unite: модификаторы недопустимы для функций, не являющихся членами
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(49,10): error C2039: "set_union": не является членом "std".
+D:\programm\0222\VC\Tools\MSVC\14.34.31933\include\set(23,1): message : см. объявление "std"
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(49,20): error C2065: set_: необъявленный идентификатор
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(49,34): error C2065: set_: необъявленный идентификатор
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(50,14): error C2248: CyrillicSet::set_: невозможно обратиться к private член, объявленному в классе "CyrillicSet"
+D:\First Course\Programming\First Semester\OOP\main\main\set.h(9,20): message : см. объявление "CyrillicSet::set_"
+D:\First Course\Programming\First Semester\OOP\main\main\set.h(7,7): message : см. объявление "CyrillicSet"
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(50,34): error C2248: CyrillicSet::set_: невозможно обратиться к private член, объявленному в классе "CyrillicSet"
+D:\First Course\Programming\First Semester\OOP\main\main\set.h(9,20): message : см. объявление "CyrillicSet::set_"
+D:\First Course\Programming\First Semester\OOP\main\main\set.h(7,7): message : см. объявление "CyrillicSet"
+D:\First Course\Programming\First Semester\OOP\main\main\set.cpp(49,19): error C3861: set_union: идентификатор не найден
+  Создание кода...

@@ -1,0 +1,5 @@
+﻿  5.11111.cpp
+D:\First Course\Programming\First Semester\laba\5.11111\5.11111\5.11111.cpp(22,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\First Course\Programming\First Semester\laba\5.11111\5.11111\5.11111.cpp(33,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\First Course\Programming\First Semester\laba\5.11111\5.11111\5.11111.cpp(34,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  5.11111.vcxproj -> D:\First Course\Programming\First Semester\laba\5.11111\x64\Debug\5.11111.exe

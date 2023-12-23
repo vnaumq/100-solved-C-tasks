@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+D:\First Course\Programming\First Semester\laba\5.2A\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,14): warning C4101: m: неиспользованная локальная переменная
+D:\First Course\Programming\First Semester\laba\5.2A\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,11): warning C4101: n: неиспользованная локальная переменная
+D:\First Course\Programming\First Semester\laba\5.2A\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,14): warning C4101: m: неиспользованная локальная переменная
+D:\First Course\Programming\First Semester\laba\5.2A\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,11): warning C4101: n: неиспользованная локальная переменная
+D:\First Course\Programming\First Semester\laba\5.2A\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,14): warning C4101: m: неиспользованная локальная переменная
+D:\First Course\Programming\First Semester\laba\5.2A\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,11): warning C4101: n: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> D:\First Course\Programming\First Semester\laba\5.2A\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

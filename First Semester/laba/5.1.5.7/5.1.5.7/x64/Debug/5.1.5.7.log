@@ -1,0 +1,5 @@
+﻿  5.1.5.7.cpp
+D:\First Course\Programming\First Semester\laba\5.1.5.7\5.1.5.7\5.1.5.7.cpp(8,14): error C2440: =: невозможно преобразовать "int (__cdecl *)(int *)" в "int (__cdecl *)(int)"
+D:\First Course\Programming\First Semester\laba\5.1.5.7\5.1.5.7\5.1.5.7.cpp(8,14): message : Для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+D:\First Course\Programming\First Semester\laba\5.1.5.7\5.1.5.7\5.1.5.7.cpp(22,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\First Course\Programming\First Semester\laba\5.1.5.7\5.1.5.7\5.1.5.7.cpp(24,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных

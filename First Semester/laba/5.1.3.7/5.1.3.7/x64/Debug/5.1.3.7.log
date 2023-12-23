@@ -1,0 +1,9 @@
+﻿  5.1.3.7.cpp
+D:\First Course\Programming\First Semester\laba\5.1.3.7\5.1.3.7\5.1.3.7.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\First Course\Programming\First Semester\laba\5.1.3.7\5.1.3.7\5.1.3.7.cpp(119,14): message : выполняется компиляция ссылки на экземпляр шаблон функции "void ran<double,int>(rururu *,rururuu)"
+          with
+          [
+              rururu=double,
+              rururuu=int
+          ]
+  5.1.3.7.vcxproj -> D:\First Course\Programming\First Semester\laba\5.1.3.7\x64\Debug\5.1.3.7.exe

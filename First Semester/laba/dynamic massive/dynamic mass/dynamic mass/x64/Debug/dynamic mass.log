@@ -1,0 +1,3 @@
+﻿  dynamic mass.cpp
+D:\First Course\Programming\First Semester\laba\dynamic massive\dynamic mass\dynamic mass\dynamic mass.cpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dynamic mass.vcxproj -> D:\First Course\Programming\First Semester\laba\dynamic massive\dynamic mass\x64\Debug\dynamic mass.exe

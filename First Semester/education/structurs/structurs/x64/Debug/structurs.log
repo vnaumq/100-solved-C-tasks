@@ -1,0 +1,3 @@
+﻿  structurs.cpp
+D:\First Course\Programming\First Semester\education\structurs\structurs\structurs.cpp(19,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  structurs.vcxproj -> D:\First Course\Programming\First Semester\education\structurs\x64\Debug\structurs.exe

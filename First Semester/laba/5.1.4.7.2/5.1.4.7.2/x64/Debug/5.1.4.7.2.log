@@ -1,0 +1,4 @@
+﻿  5.1.4.7.2.cpp
+D:\First Course\Programming\First Semester\laba\5.1.4.7.2\5.1.4.7.2\5.1.4.7.2.cpp(49,9): error C2660: newton: функция не принимает 9 аргументов
+D:\First Course\Programming\First Semester\laba\5.1.4.7.2\5.1.4.7.2\5.1.4.7.2.cpp(16,6): message : см. объявление "newton"
+D:\First Course\Programming\First Semester\laba\5.1.4.7.2\5.1.4.7.2\5.1.4.7.2.cpp(49,9): message : при попытке сопоставить список аргументов "(overloaded-function, overloaded-function, double, double, double, double, double, int, int)"

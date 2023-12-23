@@ -1,0 +1,4 @@
+﻿  dynamic 5.4.cpp
+D:\First Course\Programming\First Semester\laba\dynamic 5.4\dynamic 5.4\dynamic 5.4.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\First Course\Programming\First Semester\laba\dynamic 5.4\dynamic 5.4\dynamic 5.4.cpp(21,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dynamic 5.4.vcxproj -> D:\First Course\Programming\First Semester\laba\dynamic 5.4\x64\Debug\dynamic 5.4.exe

@@ -1,0 +1,3 @@
+﻿  3.1.3.cpp
+C:\Users\vnaum\Desktop\прога\laba\3.1.3\3.1.3\3.1.3\3.1.3.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  3.1.3.vcxproj -> C:\Users\vnaum\Desktop\прога\laba\3.1.3\3.1.3\x64\Debug\3.1.3.exe

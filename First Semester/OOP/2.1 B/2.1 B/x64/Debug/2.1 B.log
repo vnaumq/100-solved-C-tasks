@@ -1,0 +1,11 @@
+﻿  2.1 B.cpp
+D:\First Course\Programming\First Semester\OOP\2.1 B\2.1 B\2.1 B.cpp(207,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\First Course\Programming\First Semester\OOP\2.1 B\2.1 B\2.1 B.cpp(224,25): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+D:\First Course\Programming\First Semester\OOP\2.1 B\2.1 B\2.1 B.cpp(225,25): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+D:\First Course\Programming\First Semester\OOP\2.1 B\2.1 B\2.1 B.cpp(226,25): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+D:\First Course\Programming\First Semester\OOP\2.1 B\2.1 B\2.1 B.cpp(229,17): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+D:\First Course\Programming\First Semester\OOP\2.1 B\2.1 B\2.1 B.cpp(233,17): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+D:\First Course\Programming\First Semester\OOP\2.1 B\2.1 B\2.1 B.cpp(238,17): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+D:\First Course\Programming\First Semester\OOP\2.1 B\2.1 B\2.1 B.cpp(241,21): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+D:\First Course\Programming\First Semester\OOP\2.1 B\2.1 B\2.1 B.cpp(247,21): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+  2.1 B.vcxproj -> D:\First Course\Programming\First Semester\OOP\2.1 B\x64\Debug\2.1 B.exe

@@ -1,0 +1,5 @@
+﻿  5.1.1.7.1.cpp
+D:\First Course\Programming\First Semester\laba\5.1.1.7.1\5.1.1.7.1\5.1.1.7.1.cpp(11,10): warning C4244: =: преобразование "double" в "short", возможна потеря данных
+D:\First Course\Programming\First Semester\laba\5.1.1.7.1\5.1.1.7.1\5.1.1.7.1.cpp(27,10): warning C4244: =: преобразование "double" в "short", возможна потеря данных
+D:\First Course\Programming\First Semester\laba\5.1.1.7.1\5.1.1.7.1\5.1.1.7.1.cpp(43,10): warning C4244: =: преобразование "double" в "short", возможна потеря данных
+  5.1.1.7.1.vcxproj -> D:\First Course\Programming\First Semester\laba\5.1.1.7.1\x64\Debug\5.1.1.7.1.exe

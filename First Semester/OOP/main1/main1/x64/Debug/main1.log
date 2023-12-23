@@ -1,0 +1,6 @@
+﻿  main1.cpp
+  MyClass.cpp
+  Создание кода...
+main1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class MyClass __cdecl MyClass::inter(class MyClass const &)const " (?inter@MyClass@@QEBA?AV1@AEBV1@@Z) в функции main.
+main1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class MyClass __cdecl MyClass::diff(class MyClass const &)const " (?diff@MyClass@@QEBA?AV1@AEBV1@@Z) в функции main.
+D:\First Course\Programming\First Semester\OOP\main1\x64\Debug\main1.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

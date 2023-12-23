@@ -1,0 +1,3 @@
+﻿  5.1.2.7.cpp
+D:\First Course\Programming\First Semester\laba\5.1.2.7\5.1.2.7\5.1.2.7.cpp(25,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  5.1.2.7.vcxproj -> D:\First Course\Programming\First Semester\laba\5.1.2.7\x64\Debug\5.1.2.7.exe

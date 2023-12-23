@@ -1,0 +1,3 @@
+﻿  строки children.cpp
+C:\Users\vnaum\Desktop\экз\строки children\строки children\строки children.cpp(8,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  строки children.vcxproj -> C:\Users\vnaum\Desktop\экз\строки children\x64\Debug\строки children.exe

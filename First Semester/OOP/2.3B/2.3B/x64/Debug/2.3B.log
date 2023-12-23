@@ -1,0 +1,3 @@
+﻿  2.3B.cpp
+D:\First Course\Programming\First Semester\OOP\2.3B\2.3B\2.3B.cpp(111,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  2.3B.vcxproj -> D:\First Course\Programming\First Semester\OOP\2.3B\x64\Debug\2.3B.exe

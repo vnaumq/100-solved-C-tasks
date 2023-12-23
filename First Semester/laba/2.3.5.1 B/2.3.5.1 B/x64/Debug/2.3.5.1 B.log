@@ -1,0 +1,4 @@
+﻿  2.3.5.1 B.cpp
+C:\Users\vnaum\Desktop\прога\laba\2.3.5.1 B\2.3.5.1 B\2.3.5.1 B.cpp(9,13): warning C4101: b: неиспользованная локальная переменная
+C:\Users\vnaum\Desktop\прога\laba\2.3.5.1 B\2.3.5.1 B\2.3.5.1 B.cpp(9,15): warning C4101: c: неиспользованная локальная переменная
+  2.3.5.1 B.vcxproj -> C:\Users\vnaum\Desktop\прога\laba\2.3.5.1 B\x64\Debug\2.3.5.1 B.exe

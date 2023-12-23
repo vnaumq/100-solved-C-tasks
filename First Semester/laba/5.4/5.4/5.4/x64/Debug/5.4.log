@@ -1,0 +1,4 @@
+﻿  5.4.cpp
+D:\First Course\Programming\First Semester\laba\5.4\5.4\5.4\5.4.cpp(25,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\First Course\Programming\First Semester\laba\5.4\5.4\5.4\5.4.cpp(38,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  5.4.vcxproj -> D:\First Course\Programming\First Semester\laba\5.4\5.4\x64\Debug\5.4.exe

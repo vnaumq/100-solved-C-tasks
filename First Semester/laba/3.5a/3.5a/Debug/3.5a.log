@@ -1,0 +1,3 @@
+﻿  3.5a.cpp
+D:\Study\Programming\3.5a\3.5a\3.5a.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  3.5a.vcxproj -> D:\Study\Programming\3.5a\Debug\3.5a.exe

@@ -1,0 +1,4 @@
+﻿  1.1.cpp
+D:\First Course\Programming\First Semester\OOP\1.1\1.1\1.1.cpp(59,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\First Course\Programming\First Semester\OOP\1.1\1.1\1.1.cpp(59,27): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  1.1.vcxproj -> D:\First Course\Programming\First Semester\OOP\1.1\x64\Debug\1.1.exe

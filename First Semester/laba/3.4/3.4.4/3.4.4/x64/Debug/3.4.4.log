@@ -1,0 +1,6 @@
+﻿  3.4.4.cpp
+C:\Users\vnaum\Desktop\прога\laba\3.4\3.4.4\3.4.4\3.4.4.cpp(30,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vnaum\Desktop\прога\laba\3.4\3.4.4\3.4.4\3.4.4.cpp(31,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vnaum\Desktop\прога\laba\3.4\3.4.4\3.4.4\3.4.4.cpp(32,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vnaum\Desktop\прога\laba\3.4\3.4.4\3.4.4\3.4.4.cpp(33,34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  3.4.4.vcxproj -> C:\Users\vnaum\Desktop\прога\laba\3.4\3.4.4\x64\Debug\3.4.4.exe

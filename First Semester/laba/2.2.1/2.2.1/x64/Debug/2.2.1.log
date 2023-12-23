@@ -1,0 +1,4 @@
+﻿  2.2.1.cpp
+C:\Users\vnaum\Desktop\прога\laba\2.2.1\2.2.1\2.2.1.cpp(6,12): warning C4101: x: неиспользованная локальная переменная
+C:\Users\vnaum\Desktop\прога\laba\2.2.1\2.2.1\2.2.1.cpp(6,44): warning C4101: h: неиспользованная локальная переменная
+  2.2.1.vcxproj -> C:\Users\vnaum\Desktop\прога\laba\2.2.1\x64\Debug\2.2.1.exe
